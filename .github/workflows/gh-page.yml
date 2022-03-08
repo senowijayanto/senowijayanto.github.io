@@ -25,10 +25,10 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: <username>/<username>.github.io
+          external_repository: senowijayanto/senowijayanto.github.io
           publish_dir: ./public
           #   keep_files: true
-          user_name: <username>
-          user_email: <username@email.com>
+          user_name: senowijayanto
+          user_email: senowijayanto@gmail.com
           publish_branch: master
         #   cname: example.com
