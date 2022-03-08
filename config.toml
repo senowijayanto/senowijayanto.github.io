@@ -1,0 +1,4 @@
+baseURL = 'https://senowijayanto.github.io/'
+languageCode = 'en-us'
+title = 'Seno Wijayanto'
+theme = 'ananke'
